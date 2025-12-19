@@ -150,7 +150,7 @@ php artisan test
 
 ### 1. Clone the repository
 ```bash
-git clone <repository-url>
+git clone https://github.com/victortoromanuel/tots-backend.git
 cd tots-backend
 ```
 
