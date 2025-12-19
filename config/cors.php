@@ -7,7 +7,8 @@ return [
     'allowed_methods' => ['*'],
 
     'allowed_origins' => [
-        'https://tots-frontend.vercel.app'
+        'https://tots-frontend.vercel.app',
+        'http://localhost:4200',
     ],
 
     'allowed_origins_patterns' => [],
